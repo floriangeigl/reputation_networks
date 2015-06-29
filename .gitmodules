@@ -1,0 +1,6 @@
+[submodule "tools"]
+	path = tools
+	url = git@github.com:floriangeigl/tools.git
+[submodule "DynamicNetworkViz"]
+	path = DynamicNetworkViz
+	url = git@github.com:floriangeigl/DynamicNetworkViz.git
